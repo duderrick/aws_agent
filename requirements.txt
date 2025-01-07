@@ -1,0 +1,5 @@
+boto3==1.35.90
+langchain_aws==0.2.10
+langchain_chroma==0.1.4
+langchain_core==0.3.29
+langgraph==0.2.61
