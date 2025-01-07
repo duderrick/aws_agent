@@ -1,6 +1,4 @@
-"""
-tools to support IAM
-"""
+"""tools to support IAM"""
 
 from langchain_core.tools import tool
 
